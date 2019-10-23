@@ -1,4 +1,4 @@
-body {
+ body {
   background: #575F7D;
   color: #212121;
   font-family: 'Montserrat', sans-serif;
@@ -50,11 +50,16 @@ a:hover {
   text-align: center;
 }
 .btn-blue {
-background-color: #575F7D;
-color: white;
-padding: 15px 20px;
-border-radius: 8px;
-font-weight: lighter;
+  background-color: #575F7D;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  font-weight: lighter;
+}
+
+.funny-quote {
+  font-size: 20px;
+  font-weight: lighter;
 }
 
 @media (max-width: 960px) {
